@@ -1,0 +1,20 @@
+{
+  "include": [
+    "ai",
+    "tests",
+    "main.py",
+    "demo_flow.py",
+    "test_custom_audio.py"
+  ],
+  "extraPaths": [
+    "."
+  ],
+  "executionEnvironments": [
+    {
+      "root": "."
+    }
+  ],
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "reportMissingTypeStubs": "none"
+}

@@ -1,0 +1,16 @@
+# WatchFiles configuration for Uvicorn reload
+# Excludes uploads, temp, sqlite databases, and static image output files to prevent mid-request Uvicorn restarts.
+
+[ignore]
+paths = [
+    "uploads",
+    "temp",
+    "kai_artisan.db",
+    "Karigar_with_BE/Backend/uploads",
+    "*.db",
+    "*.jpg",
+    "*.png",
+    "*.webp",
+    "__pycache__",
+    ".git"
+]
