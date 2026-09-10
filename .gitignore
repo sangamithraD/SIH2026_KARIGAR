@@ -39,6 +39,7 @@ Thumbs.db
 *.pth
 *.onnx
 *.safetensors
+Documents/Karigar.mp4
 
 # Expo
 .expo/
