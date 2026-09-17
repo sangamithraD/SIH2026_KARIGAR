@@ -1,6 +1,6 @@
 # KAI — Open-Source AI Layer Engine & Services
 
-KAI is an AI-powered digital assistant designed for marginalized artisans. This repository contains the complete **AI Layer**, exposing clean FastAPI microservices and action contracts for the FastAPI backend to execute.
+KARIGAR is an AI-powered digital assistant designed for marginalized artisans. This repository contains the complete **AI Layer**, exposing clean FastAPI microservices and action contracts for the FastAPI backend to execute.
 
 ---
 
